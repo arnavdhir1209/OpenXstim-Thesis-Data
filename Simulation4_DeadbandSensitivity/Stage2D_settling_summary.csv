@@ -1,0 +1,10 @@
+Controller,Deadband_mA,Trials,Settled03,Settled03_pct,Settled1pct,Settled1pct_pct
+Empirical,0.03,60,5,8.33333333333333,60,100
+Empirical,0.05,60,8,13.3333333333333,60,100
+Empirical,0.08,60,32,53.3333333333333,60,100
+Conservative,0.03,60,6,10,60,100
+Conservative,0.05,60,8,13.3333333333333,60,100
+Conservative,0.08,60,31,51.6666666666667,60,100
+Moderately faster,0.03,60,11,18.3333333333333,60,100
+Moderately faster,0.05,60,8,13.3333333333333,60,100
+Moderately faster,0.08,60,30,50,60,100

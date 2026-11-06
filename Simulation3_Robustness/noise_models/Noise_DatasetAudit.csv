@@ -1,0 +1,4 @@
+File,Load_Ohm,TotalRows,RunningRows,FaultOKRows,OpenLoopRows,InitiallyValidRows,AcceptedRows,AcceptedSegments
+B1 2k 10mA.csv,2000,552,496,552,552,496,490,1
+B2 4k 10mA.csv,4000,543,496,543,543,496,494,1
+Open loop 1k.csv,1000,453,299,319,453,299,104,1

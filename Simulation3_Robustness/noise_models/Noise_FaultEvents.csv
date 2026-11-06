@@ -1,0 +1,2 @@
+File,SegmentStartRow,SegmentEndRow,FaultRow,FaultTime_s,Counter,ExcludedRows,Reason
+Open loop 1k.csv,251,386,387,193.226,215,136,CURRENT_LOSS after RUNNING segment

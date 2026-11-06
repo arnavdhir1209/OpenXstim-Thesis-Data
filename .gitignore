@@ -1,0 +1,6 @@
+# Review files, not part of the release
+_review_not_for_upload/
+
+# macOS folder metadata
+.DS_Store
+**/.DS_Store

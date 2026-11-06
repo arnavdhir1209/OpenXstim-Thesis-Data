@@ -1,0 +1,3 @@
+Configuration,MaximumIntegral_counts,TimeAtUpperLimit_s,RecoveryTime_s,PeakCurrentAfterRemoval_mA
+No anti-windup,194.754724569238,14.355,32.42,10.739599395
+Conditional anti-windup,18.1926400649222,7.1775,7.2575,10.739599395
